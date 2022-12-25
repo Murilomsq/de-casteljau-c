@@ -1,3 +1,5 @@
+//res https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-25-rendering-vector-art-gpu
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
